@@ -1,6 +1,6 @@
-Git y GitHub para Periodistas
-=============================
+Como crear una aplicación de datos
+==================================
 
-Presentación para Periodismo de Datos en Barcelona 2014
+Presentación para Periodismo de Datos en Madrid 2014.
 
-Se puede ver en [http://gabelula.github.io/github-para-periodistas-presentacion/#/](http://gabelula.github.io/github-para-periodistas-presentacion/#/)
+Se puede ver en [http://gabelula.github.io/first-news-app-presentacion-madrid/#/](http://gabelula.github.io/first-news-app-presentacion-madrid/#/).
